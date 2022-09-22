@@ -8,6 +8,8 @@ def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
     print(f'random change 3')  # Press ⌘F8 to toggle the breakpoint.
     print(" adding a new line now")
+    print(" adding a new line now")
+    print(" adding a new line now")
 
 
 # Press the green button in the gutter to run the script.
