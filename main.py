@@ -10,6 +10,7 @@ def print_hi(name):
     print(" adding a new line now")
     print(" adding a new line now")
     print(" adding a new line now")
+    print(" adding a new line now")
 
 
 # Press the green button in the gutter to run the script.
